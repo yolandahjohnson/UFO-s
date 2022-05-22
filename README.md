@@ -17,8 +17,11 @@ The user entered "or", for Oregon, in the state search box and the below results
 ![interactive_search](https://user-images.githubusercontent.com/100816778/169720590-1ef59fb4-1ffb-4be4-ab87-b9b372f88fbe.png)
 
 ## Summary
+
+### Drawback
 While the webpage is functional there are some drawbacks. One being, in order to do a proper search the user would have to know the specific date, city, state, country, or shape. Additionally, they would have to know that it's case specific. (i.e., all lowercase)
 
+### Rcommendations
 Some enhancements that can be done to make it easier for the user to navigate through the table are:
 - When the user enters a search in any box and executes the search, the pre-populated search suggestions should be cleared out. 
 - For the city, state, country, and shape search criteria, a drop down arrow can be added that lists all available options.
